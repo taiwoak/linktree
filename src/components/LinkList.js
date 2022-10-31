@@ -10,8 +10,8 @@ const LinkList = () => {
             <Image alt="Taiwo Akerele Image" width="150px" height="150px" src={process.env.PUBLIC_URL + "/taiwoak.jpg" } id="profile__img" />
             <p className="mb-1">Taiwo Akerele</p>
             <p id="slack">@taiwoak</p>
-            <img alt="Share Icon" width="40px" height="40px" src= {process.env.PUBLIC_URL + "/_Avatar share button.png" } id="web-share" />
-            <img alt="Share Icon" width="40px" height="40px" src= {process.env.PUBLIC_URL + "/_Avatar share button mobile.png" } id="mobile-share" />
+            <img alt="Share Icon" width="40px" height="40px" src= {process.env.PUBLIC_URL + "avatar-share-button.png" } id="web-share" />
+            <img alt="Share Icon" width="40px" height="40px" src= {process.env.PUBLIC_URL + "avatar-share-mobile.png" } id="mobile-share" />
         </div>
         <div id="links_section" className="d-flex flex-column align-items-center">
             <a href="https://twitter.com/td_akerele" id="twitter" target="_blank" rel="noopener noreferrer"> 
