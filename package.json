@@ -9,7 +9,6 @@
     "@iconify/icons-simple-icons": "^1.2.32",
     "@iconify/react": "^4.0.0",
     "bootstrap": "^5.2.2",
-    "gh-pages": "^4.0.0",
     "netlify-cli": "^12.0.11",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
